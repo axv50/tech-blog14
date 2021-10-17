@@ -1,0 +1,11 @@
+h1 {
+  color: orange;
+}
+
+.home-page h1 {
+  color: red;
+}
+
+.about-page h1 {
+  color: blue;
+}
